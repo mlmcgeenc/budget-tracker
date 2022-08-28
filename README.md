@@ -9,7 +9,7 @@
 * [Questions/Contact](#Questions/Contact])
 
 ## Description
-A pgrogressive web app for tracking deposits and expenses.
+A progressive web app for tracking deposits and expenses.
 <img width="844" alt="Screen Shot 2022-08-28 at 6 54 34 PM" src="https://user-images.githubusercontent.com/51179862/187097986-78493716-c136-42ec-a126-46ed6f941b99.png">
 
 ## Installation
