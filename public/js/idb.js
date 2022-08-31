@@ -71,7 +71,6 @@ function uploadTransaction() {
 					const transactionObjectStore = transaction.objectStore('new_transaction');
 					// clear all items in the store
 					transactionObjectStore.clear();
-					console.log('All saved transactions submitted');
 				})
 				.catch((err) => {
 					console.log(err);
